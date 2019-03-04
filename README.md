@@ -1,18 +1,8 @@
-# Alfred IP Geolocation workflow
+# Alfred Gitlab due workflow
 
-## Install
 
-- Please Download  [workflow](https://github.com/wangshub/Alfred-IP-Geo-Workflow/releases)
+Copy `/due date` for gitlab.
 
-## Usage
+<div style="text-align:center"><img src ="./pic/demo.png" width="50%" /></div>
 
-- `ip` : Display internal and external IP addresses.
-    ![](./pic/ip_0.gif)
-    
-    
-- `ip xxx.xxx.xxx.xxx`: Get ip geolocation infomation via [http://ip-api.com](http://ip-api.com) 
-    ![](./pic/ip_1.gif)
-    
-## License
-
-MIT @ [github/wangshub](https://github.com/wangshub)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/wangshub/image-hosting/master/img/20190304205455.png" width="50%" /></div>
